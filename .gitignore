@@ -39,3 +39,11 @@ env/
 .DS_Store
 Thumbs.db
 
+# Build artifacts
+*.build/
+*.onefile-build/
+*.spec
+build/
+
+# Archive
+*.7z
